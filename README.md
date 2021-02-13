@@ -1,15 +1,3 @@
-# 🚀 Welcome to your new awesome project!
-
-This project has been created using **webpack scaffold**, you can now run
-
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+This is a meeting scheduler application for one meeting room. 
+This project is made using HTML, SCSS, JavaScript and Bootstrap.
+The dropdown list with multiple selections is made using bootstrap-select plugin.
